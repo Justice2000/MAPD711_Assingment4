@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/BahamasCruise"
+        android:title="Bahamas Cruise"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/CaribbeanCruise"
+        android:title="Caribbean Cruise"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/CubaCruise"
+        android:title="Cuba Cruise"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/SamplerCruise"
+        android:title="Sampler Cruise"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/StarCruise"
+        android:title="Star Cruise"
+        app:showAsAction="never" />
+</menu>
